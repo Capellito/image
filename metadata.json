@@ -1,8 +1,8 @@
 {
-    "name": "OPOSS",
+    "name": "OPOS",
     "symbol": "OPOS",
     "description": "Only Possible On Solana",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png",
+    "image": "https://raw.githubusercontent.com/Capellito/image/main/chill.png",
     "attributes": [
       {
         "trait_type": "Item",
