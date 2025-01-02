@@ -1,8 +1,8 @@
 {
-    "name": "ChillGoldenCoin",
-    "symbol": "CGC",
-    "description": "The chillest Shinny Crypto",
-    "image": "https://raw.githubusercontent.com/Capellito/image/main/ChillGoldenCoin.jpg",
+    "name": "EagleCoin",
+    "symbol": "EGLC",
+    "description": "EagleCoin (EGLC) is a revolutionary cryptocurrency built to soar above the rest",
+    "image": "https://raw.githubusercontent.com/Capellito/image/main/EagleCoin.jpg",
     "attributes": [
       {
         "trait_type": "Item",
